@@ -6,3 +6,6 @@ def subtraction(a,b):
 
 def display(a,b):
     print(a,b)
+
+def main():
+    pass
