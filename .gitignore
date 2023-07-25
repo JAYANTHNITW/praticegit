@@ -7,6 +7,7 @@ model.py
 # C extensions
 *.so
 venv/
+myvenv/
 # Distribution / packaging
 .Python
 build/
